@@ -1,0 +1,5 @@
+{
+  "httpMethod": "POST",
+  "path": "/login",
+  "body": "{\"userId\": \"user123\", \"status\": \"success\"}"
+}
