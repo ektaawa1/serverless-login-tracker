@@ -3,7 +3,7 @@
 A serverless user login tracker project using **AWS Lambda, API Gateway, and DynamoDB** (records and queries login events).  
 It records user login events and allows querying login history in real time.
 
-# How to run / test (Postman steps):
+## How to run / test (Postman steps):
 ## POST an event
 curl -X POST "https://<API_ID>.execute-api.<region>.amazonaws.com/prod/login" \
 -H "Content-Type: application/json" \
